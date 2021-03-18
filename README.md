@@ -6,6 +6,6 @@ This repository contains implementations of the **Lox** programming language whi
 
 Different implementations are available, each one in its own directory named after the language in which it is implemented:
 
-* Java (Walk-tree interpreter)
+* Java (Tree-Walk interpreter)
 * C (bytecode VM)
 
